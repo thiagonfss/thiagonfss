@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Thiago! ;D
 
-<!--
-**thiagonfss/thiagonfss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagonfss)](https://github.com/thiagonfss)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagonfss/)](https://www.linkedin.com/in/thiagonfss/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me :detective:
+
+- I'm a {backend and frontend} developer at [@animaEducacao](https://animaeducacao.com.br/).
+
+- My favorite language is [C#]([Documentação do C# – introdução, tutoriais, referência. | Microsoft Docs](https://docs.microsoft.com/pt-br/dotnet/csharp/)).
+
+#### Academic Education :man_student:
+
+- I have a degree in administration ([Unibh]([UniBH | Centro Universitário de Belo Horizonte](https://www.unibh.br/))).
+-  I'm studying systems analysis and development ([Una]([Una | Centro Universitário Una](https://www.una.br/))).
