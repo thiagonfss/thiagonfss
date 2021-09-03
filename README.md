@@ -1,6 +1,6 @@
 # Hi, I'm Thiago! ;D
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagonfss)](https://github.com/thiagonfss)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagonfss/)](https://www.linkedin.com/in/thiagonfss/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagonfss)](https://github.com/thiagonfss)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagonfss/)](https://www.linkedin.com/in/thiagonfss/)[![Whats_App](https://img.shields.io/badge/-whatsapp-greenn?style=flat-square&logo=whatsapp&logoColor=white&https://api.whatsapp.com/send?phone=5531992939631&text=Ol%C3%A1,%20eu%20vi%20seu%20n%C3%BAmero%20pelo%20Github!)](https://api.whatsapp.com/send?phone=5531992939631&text=Ol%C3%A1,%20eu%20vi%20seu%20n%C3%BAmero%20pelo%20Github!)
 
 
 ### About me :detective:
