@@ -7,12 +7,12 @@
 
 - I'm a {backend and frontend} developer at [@animaEducacao](https://animaeducacao.com.br/).
 
-- My favorite language is [C#]([Documentação do C# – introdução, tutoriais, referência. | Microsoft Docs](https://docs.microsoft.com/pt-br/dotnet/csharp/).
+- My favorite language is [C#]([Documentação do C# – introdução, tutoriais, referência. | Microsoft Docs](https://docs.microsoft.com/pt-br/dotnet/csharp/)).
 
 #### Academic Education :man_student:
 
-- I have a degree in administration [Unibh]([UniBH | Centro Universitário de Belo Horizonte](https://www.unibh.br/).
--  I'm studying systems analysis and development ([Una]([Una | Centro Universitário Una](https://www.una.br/).
+- I have a degree in administration [Unibh]([UniBH | Centro Universitário de Belo Horizonte](https://www.unibh.br/)).
+-  I'm studying systems analysis and development ([Una]([Una | Centro Universitário Una](https://www.una.br/)).
 
 
 
