@@ -14,5 +14,11 @@
 - I have a degree in administration ([UniBH | Centro Universitário de Belo Horizonte](https://www.unibh.br/)).
 -  I'm studying systems analysis and development ([Una | Centro Universitário Una](https://www.una.br/)).
 
+<div>
+  <a href="https://github.com/thiagonfss">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagonfss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagonfss&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 
 
